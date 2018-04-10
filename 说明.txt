@@ -1,4 +1,4 @@
-﻿使用freemarker 编辑word模板，填充数据后，导出。
+﻿可使用freemarker 编辑word模板，填充数据后，导出。
 参考链接：
 http://blog.csdn.net/djwjsw/article/details/7869231（操作word比较）
 http://www.cnblogs.com/dyllove98/archive/2013/07/10/3181579.html（freemarker编辑图片）
